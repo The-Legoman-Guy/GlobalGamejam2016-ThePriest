@@ -27,5 +27,5 @@ Game jam Page : https://globalgamejam.org/2016/games/priest
 
 # Notes
 
-- there is stills some bugs
+- there is still some bugs
 - I don't personally own the game, so i won't put all sources on github. I just put executable files to let you test /play the game.
